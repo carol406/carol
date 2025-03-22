@@ -1,0 +1,58 @@
+/* General Page Styling */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-image: url('samp.jpg'); 
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: rgb(10, 1, 1); 
+  font-family: Arial, sans-serif;
+}
+
+/* Header Styling */
+h1 {
+  color: #d2691e;
+  margin-top: 20px;
+}
+
+h2 {
+  color: #8b4513;
+}
+
+/* Table Styling */
+table {
+  width: 60%;
+  margin: 20px auto;
+  border-collapse: collapse;
+  background-color: #fff;
+  box-shadow: 2px 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+th, td {
+  border: 1px solid #000;
+  padding: 10px;
+}
+
+th {
+  background-color: #d2691e;
+  color: white;
+}
+
+/* Link Styling */
+a {
+  color: #d2691e;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+
